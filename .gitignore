@@ -1,0 +1,8 @@
+node_modules/
+uploads/
+hrr.db
+frontend/
+.vite/
+dist/
+*.pyc
+__pycache__/
